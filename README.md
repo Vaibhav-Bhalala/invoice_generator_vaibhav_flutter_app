@@ -1,16 +1,7 @@
-# ivoice
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230816_115333](https://github.com/Vaibhav-Bhalala/invoice_generator_vaibhav_flutter_app/assets/122871366/5f8d518a-bb9b-4d6a-8b6f-39ab6e2f9da8)
+![Uploading Screenshot_20230816_115305.png…]()
+![Uploading Screenshot_20230816_114952.png…]()
+![Uploading Screenshot_20230816_114943.png…]()
+![Screenshot_20230816_114637](https://github.com/Vaibhav-Bhalala/invoice_generator_vaibhav_flutter_app/assets/122871366/239d45f5-f7d5-4f30-8fa1-9d5dd7d7a7cf)
+![Uploading Screenshot_20230816_114628.png…]()
+![Uploading Screenshot_20230816_114614.png…]()
